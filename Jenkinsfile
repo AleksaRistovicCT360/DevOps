@@ -5,7 +5,7 @@ if [ "$x_github_event" = "release" ]; then
 
 echo "-------> 1. Repo Info <-------"
 
-|
+| 
   
 REPO_NAME=$repo
 VERSION=$version
